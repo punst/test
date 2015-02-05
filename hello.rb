@@ -1,3 +1,3 @@
 0.upto(9) do
-	puts "Hello World"
+	puts "Hello World!"
 end
